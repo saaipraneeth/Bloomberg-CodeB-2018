@@ -1,2 +1,5 @@
 # Bloomberg-CodeB-2018
-Algorithmic AI hackathon
+
+Real-time Python bot for a large multiplayer Space Invaders-like game
+
+Won 1st prize.
